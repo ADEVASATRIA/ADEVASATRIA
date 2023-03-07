@@ -22,7 +22,7 @@ I am currently studying at Bina Nusantara University. with the Department of Com
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=C&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=C++&logoColor=white)&nbsp;
-![GO](https://img.shields.io/badge/GO-ED8B00?style=for-the-badge&logo=GO&logoColor=white)&nbsp;
+![GO](https://img.shields.io/badge/GO%20LANGUAGE-0078d7.svg?style=for-the-badge&logo=GO-LANGUAGE&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
