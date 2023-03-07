@@ -1,8 +1,8 @@
 ## Hi 👋 I am ADEVA!
 I am currently studying at Bina Nusantara University. with the Department of Computer Science
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADEVA-SATRIA&count_private=true&show_icons=true&theme=dracula&line_height=33">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADEVA-SATRIA&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+  <img src="https://github-readme-stats.vercel.app/api?username=ADEVASATRIA&count_private=true&show_icons=true&theme=dracula&line_height=33">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADEVASATRIA&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p> 
 <p align="center">
