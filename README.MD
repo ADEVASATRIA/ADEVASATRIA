@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Adeva 👋 I'm a 🚀 Students Computer Science 🚀 Codding ❤️ For Live ❤️">
-</p>
 ## Hi 👋 I am ADEVA!
 I am currently studying at Bina Nusantara University. with the Department of Computer Science
 <p align="center">
