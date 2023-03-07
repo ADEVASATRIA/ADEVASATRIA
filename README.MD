@@ -1,1 +1,13 @@
-https://camo.githubusercontent.com/6c5c2926c02798c3940f9bc15993578757dce9c598a9f618e33b5c73edd0f1af/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73796175717169692673686f775f69636f6e733d74727565266c61796f75743d636f6d70616374266c616e67735f636f756e743d3726686964653d68746d6c2662675f636f6c6f723d30443131313726746578745f636f6c6f723d666666666666267469746c655f636f6c6f723d30306666666626686964655f626f726465723d74727565
+## Hi 👋 I am ADEVA!
+<p align="center">
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=ADEVASATRIA&show_icons=true&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADEVASATRIA&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true"/>       
+</p>
+<details open>
+
+
+<summary>🤝 <b>To connect with me<b></summary>
+
+<p align = "center">
+
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adevasatria/)
