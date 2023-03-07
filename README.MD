@@ -11,3 +11,8 @@ I am currently studying at Bina Nusantara University. with the Department of Com
 <p align = "center">
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adevasatria/)
+  
+## Skills:
+  
+#### Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
