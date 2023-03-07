@@ -21,9 +21,8 @@ I am currently studying at Bina Nusantara University. with the Department of Com
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=C&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-C-000?&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)&nbsp;
+![C++](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=C++&logoColor=white)&nbsp;
+![GO](https://img.shields.io/badge/GO-ED8B00?style=for-the-badge&logo=GO&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
