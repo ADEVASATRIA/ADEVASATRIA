@@ -12,23 +12,6 @@ I am currently studying at Bina Nusantara University. with the Department of Com
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/adevasatria/)
   
-## Skills:
-  
-#### Database
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-#### Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-ED8B00?style=for-the-badge&logo=C&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=C++&logoColor=white)&nbsp;
-![GO](https://img.shields.io/badge/GO%20LANGUAGE-0078d7.svg?style=for-the-badge&logo=GO-LANGUAGE&logoColor=white)&nbsp;
-![Java Script](https://img.shields.io/badge/Java-Script-ED8B00?style=for-the-badge&logo=java-script&logoColor=white)&nbsp;
-
-#### Tools and Technologies
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-000?&logo=React)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)&nbsp;
 
 #### IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
