@@ -1,4 +1,5 @@
 ## Hi 👋 I am ADEVA!
+I am currently studying at Bina Nusantara University. with the Department of Computer Science
 <p align="center">
 <img width="44%" src="https://github-readme-stats.vercel.app/api?username=ADEVASATRIA&show_icons=true&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true"/>
 <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADEVASATRIA&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=ffffff&title_color=00ffff&hide_border=true"/>       
