@@ -1,4 +1,5 @@
 ## Hi 👋 I am ADEVA!
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ADEVASATRIA"/>
 I am currently studying at Bina Nusantara University. with the Department of Computer Science
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ADEVASATRIA&count_private=true&show_icons=true&theme=dracula&line_height=33">
