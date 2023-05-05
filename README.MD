@@ -1,6 +1,6 @@
 ## Hi 👋 I am ADEVA!
 <div align="center">
-<img src="https://media.giphy.com/media/vHjvW3FePtF31Qb10u/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/vHjvW3FePtF31Qb10u/giphy.gif" />
 </div>  
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ADEVASATRIA"/>
