@@ -1,4 +1,8 @@
 ## Hi 👋 I am ADEVA!
+<div align="center">
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjgyNWZmZmZiNWUxOGY0MjdjNTg1NjgzZjMwOWExMGU1M2FjMTcwNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/TCOnqmevnGbxm/giphy.gif](https://giphy.com/embed/vHjvW3FePtF31Qb10u)" align="center" style="width: 100%" />
+</div>  
+
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ADEVASATRIA"/>
 I am currently studying at Bina Nusantara University. with the Department of Computer Science
 <p align="center">
