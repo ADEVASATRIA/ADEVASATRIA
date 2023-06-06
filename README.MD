@@ -13,9 +13,6 @@ I am currently studying at Bina Nusantara University. with the Department of Com
     <!-- USER LANGUAGE -->
     <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ADEVASATRIA&layout=compact&langs_count=10&bg_color=00000000&hide_border=true&title_color=00B2EE&text_color=6aa84f">
   </p>
-  <p align="center">
-    <img width="75%" src="https://streak-stats.demolab.com/?user=ADEVASATRIA&theme=transparent&hide_border=true&currStreakLabel=00B2EE&sideLabels=00B2EE&fire=6aa84f&currStreakNum=6aa84f&sideNums=6aa84f">
-  </p>
 </div>
 <p align="center">
 <img width="75%" src="https://streak-stats.demolab.com/?user=ADEVASATRIA&theme=transparent&hide_border=true&currStreakLabel=00B2EE&sideLabels=00B2EE&fire=6aa84f&currStreakNum=6aa84f&sideNums=6aa84f">
