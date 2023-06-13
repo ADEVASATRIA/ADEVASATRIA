@@ -5,7 +5,6 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ADEVASATRIA"/>
 I am currently studying at Bina Nusantara University. with the Department of Computer Science
-## Github Stats  
 <div align="center">
   <p align="center">
     <!-- USER INFORMATION -->
