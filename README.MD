@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://media.giphy.com/media/vHjvW3FePtF31Qb10u/giphy.gif" />
+</div> 
+
 <h1 align="center">Hi 👋, I'm Adeva Satria Arif Wibawa</h1>
 <h3 align="center">I am a student at Bina Nusantara University, specializing in full stack web development and mobile application development. My focus is on gaining valuable experience in both areas, exploring various aspects such as front-end design, back-end development, and database management in web development, as well as delving into the world of mobile application development. By immersing myself in these disciplines, I aspire to become a proficient web and mobile developer, equipped with the knowledge and skills to create innovative and user-friendly digital solutions.</h3>
 
