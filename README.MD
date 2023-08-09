@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adevasatria" alt="adevasatria" /></a> </p>
 
-- 🔭 I’m currently working on [Smart Stock Predictions](https://github.com/ADEVASATRIA/smart_prediction_stock.git)
+- 🔭 I’m currently working on [ Coin Saver Mobile Apps](https://github.com/ADEVASATRIA/coin_saver.git)
 
 - 🌱 I’m currently learning **Dart, Kotlin, Vue, React , Etc**
 
