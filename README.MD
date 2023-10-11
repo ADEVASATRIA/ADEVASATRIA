@@ -3,7 +3,7 @@
 </div> 
 
 <h1 align="center">Hi 👋, I'm Adeva Satria Arif Wibawa</h1>
-<h3 align="center">I am a student at Bina Nusantara University, specializing in full stack web development and Data Analysis. My focus is on gaining valuable experience in both areas, exploring various aspects such as front-end design, back-end development, and database management in web development. By immersing myself in these disciplines, I aspire to become a proficient web and mobile developer, equipped with the knowledge and skills to create innovative and user-friendly digital solutions.</h3>
+<h3 align="center">I am a student at Bina Nusantara University, specializing in full stack web development and UI/UX Engineer. My focus is on gaining valuable experience in both areas, exploring various aspects such as front-end design, back-end development, and database management in web development. By immersing myself in these disciplines, I aspire to become a proficient web developer & UI/UX Engineer, equipped with the knowledge and skills to create innovative and user-friendly digital solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adevasatria&label=Profile%20views&color=0e75b6&style=flat" alt="adevasatria" /> </p>
 
