@@ -3,15 +3,14 @@
 </div> 
 
 <h1 align="center">Hi 👋, I'm Adeva Satria Arif Wibawa</h1>
-<h3 align="center">I am a student at Bina Nusantara University, specializing in full stack web development and UI/UX Engineer. My focus is on gaining valuable experience in both areas, exploring various aspects such as front-end design, back-end development, and database management in web development. By immersing myself in these disciplines, I aspire to become a proficient web developer & UI/UX Engineer, equipped with the knowledge and skills to create innovative and user-friendly digital solutions.</h3>
+<h3 align="center">Results-oriented Full Stack Developer with strong expertise, specializing in PHP and Laravel (90% of Projects). Proven track record in leading end-to-end web application development and delivering scalable MVP systems that reduced deployment time by up to 30% Skilled in integrating front-end components, conducting code reviews, and applying best practices to improve code maintainability and team efficiency by over 25%. Also experienced as a teaching Assistant, mentoring more than 50 student in database technology and backend fundamentals. Passionate about creating high-impact digital solutions and contributing to innovative development teams
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adevasatria&label=Profile%20views&color=0e75b6&style=flat" alt="adevasatria" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adevasatria" alt="adevasatria" /></a> </p>
 
-- 🔭 I’m currently working on **Bookshelf Booking Website**
-
-- 🌱 I’m currently learning **AWS Cloud,Vue, React , Etc**
+- 🔭 I’m currently working on **Portofolio V5**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADEVASATRIA](https://github.com/ADEVASATRIA)
 
